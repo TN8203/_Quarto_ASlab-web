@@ -1,0 +1,102 @@
+---
+title: "Actuarial Science Laboratory" 
+subtitle: at NEU College of Technology
+image: sidebar/lab.jpg
+image-alt: "Laboratory at NEU College of Technology"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources:
+  - ../assets/about.css
+---
+
+::: {#hero-heading}
+<div class="h1">Hi, guys!</div>
+
+The Actuarial Science in Finance and Insurance (AS Lab) at [NEU College of Technology](https://nct.neu.edu.vn/) is a specialized unit that researches mathematical and statistical methods to assess and manage risks in insurance, finance, and related fields.  
+
+With a team of experienced experts, the research department focuses on developing quantitative models to forecast risks, optimize financial strategies, and support decision-making for businesses and organizations.  
+
+In addition to research and application orientation, AS Lab was also established with the aim of helping passionate students/trainees have the opportunity to study, research, and participate in practical work related to Actuarial Science.
+
+Get in touch by [sending us a note](/contact.qmd)! <i class="fa-solid fa-feather-pointed"></i>
+
+:::
+
+## Our Objectives
+
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+**Academic Research in Actuarial Science:** Engage in reading scientific papers, attending conferences, and contributing to academic journals.
+
+**Industry Collaboration:** Partner with insurance companies, banks, and related businesses to implement projects.
+
+**Competitions:** Organize and participate in Actuarial Science-related competitions.
+
+**Student Opportunities:** Provide real-world problem-solving experiences and internship opportunities in the Actuarial Science field.
+
+:::
+
+::: {.g-col-6 #about-me-2}
+
+**These are some of the key topics explored in our research:**
+
+<ul class="fa-ul">
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Copula and related topics.</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Monte Carlo Simulation, Markov Chain Monte Carlo methods.</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Vector Generalized Linear Model, Frequency – Severity model.</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Term-structure of interest rate.</li>
+</ul>
+
+:::
+
+:::
+<!-- end grid -->
+
+## Our Members
+
+::: {.member-card}
+<img src="members-ava/thayhuy.jpg" alt="Dr. Nguyễn Quang Huy">
+<div class="member-info">
+  <h4>Dr. Nguyễn Quang Huy</h4>
+  <p>President of the College of Technology</p>
+  <p>National Economics University</p>
+  <p><a href="https://mfe.neu.edu.vn/nguyenquanghuy/">More information</a></p>
+</div>
+:::
+
+::: {.member-card}
+<img src="members-ava/cotham.jpg" alt="Dr. Phạm Thị Hồng Thắm">
+<div class="member-info">
+  <h4>Dr. Phạm Thị Hồng Thắm</h4>
+  <p>Lecturer, Dept. of Financial Mathematics</p>
+  <p>Asset pricing, insurance pricing, risk management</p>
+  <p><a href="https://mfe.neu.edu.vn/phamthihongtham/">More information</a></p>
+</div>
+:::
+
+::: {.member-card}
+<img src="members-ava/colien.jpg" alt="Dr. Nguyễn Thị Liên">
+<div class="member-info">
+  <h4>Dr. Nguyễn Thị Liên</h4>
+  <p>Lecturer, Dept. of Financial Mathematics</p>
+  <p>Applied mathematics in economics & finance</p>
+  <p><a href="https://mfe.neu.edu.vn/nguyenthilien/">More information</a></p>
+</div>
+:::
+
+### Student Information
+
+| Name      | Program           | Research Interest      | Contact              |
+|-----------|-------------------|------------------------|----------------------|
+| Student 1 | Actuarial Science | Copula models          | student1@email.com   |
+| Student 2 | Actuarial Science | Monte Carlo Methods    | student2@email.com   |
+| Student 3 | Actuarial Science | Interest Rate Models   | student3@email.com   |
+| Student 4 | Actuarial Science | Risk Management        | student4@email.com   |
+

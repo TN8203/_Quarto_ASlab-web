@@ -1,0 +1,69 @@
+project:
+  type: website
+  # post-render:
+  #   - "cp -rnv static/. _site" # source: https://github.com/quarto-dev/quarto-cli/discussions/4162#discussioncomment-4831352
+
+website:
+  title: "Actuarial Science Laboratory"
+  site-url: https://aslab.com
+  description: "Actuarial Science Laboratory at NEU College of Technology"
+  favicon: assets/aslab/logo-as1.png
+  page-navigation: true
+  back-to-top-navigation: true
+  twitter-card:
+    creator: "@spcanelon"
+    site: "@spcanelon"
+    card-style: summary_large_image
+  comments: 
+    utterances: 
+      repo: spcanelon/silvia 
+      label: utterances
+      theme: body-light
+      issue-term: title
+ 
+  navbar:
+    logo: assets/aslab/logo-as1.png
+    right:
+      - text: About
+        aria-label: "About"
+        href: about/index.qmd
+      - text: News & Events
+        aria-label: "News&Events"
+        href: news&events/index.qmd
+      - text: Research
+        aria-label: "Research"
+        href: research/index.qmd  
+      - text: Publications
+        aria-label: "Publications"
+        href: publication/index.qmd
+      - text: Contact
+        aria-label: "Contact"
+        href: contact.qmd
+  
+  page-footer:  
+    left: >-
+     &#169; 2025 AS Lab. All rights reserved
+
+    right: 
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - assets/silvia-theme-light.scss
+        - assets/silvia/colors-light.scss
+        - assets/silvia/fonts.scss
+    highlight-style:
+      light: assets/silvia/a11y-light.theme
+    code-link: true
+    pagetitle: "{{< meta title >}}"
+    lightbox: true
+    toggle-theme: false
+
+execute: 
+  freeze: auto
+
+include-in-header: assets/silvia/umami.html

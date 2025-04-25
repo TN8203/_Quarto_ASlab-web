@@ -1,0 +1,74 @@
+---
+pagetitle: Actuarial Science Laboratory - Contact Information
+name: Contact Form
+page-layout: article
+format: 
+  html: 
+    grid:
+      margin-width: 0px
+      sidebar-width: 0px
+
+header-includes: >
+  <link rel="stylesheet" href="assets/contact.css">
+resources:
+  - assets/contact.css
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+### 📧 Email
+
+[as@lab.nct.edu](mailto:as@lab.nct.edu)
+:::
+
+::: {.g-col-6}
+### 📍 Visit Us
+
+Room 1209B, A1 Building  
+National Economics University  
+207 Giai Phong Street, Dong Tam Ward  
+Hai Ba Trung District, Hanoi, Vietnam  
+
+[View on Map](https://maps.app.goo.gl/Tv3ubzYBt99PKyHdA)
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-5 #note}
+
+
+# 💬 Send me a note 
+
+You can use this form to contact the Actuarial Science Laboratory for inquiries about collaborations, research opportunities, or any questions related to actuarial science.
+
+We also appreciate your feedback on how our educational materials have helped you and how we can improve them — particularly in making them more accessible to all learners. We value your input as we continue to enhance our resources and support. {{< fa hands-helping >}}
+
+:::
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-6 #form}
+
+<form 
+action="https://formspree.io/f/mwkapgzw" method="POST" accept-charset="utf-8">    
+  <!-- Truy cập Formspree.io và đăng ký một tài khoản miễn phí -->
+  <!-- rồi thay vào link action kia! -->
+<label for="full-name">Full Name</label>
+<input type="text" name="name" id="full-name" class="form-control" placeholder="First and Last" required>
+
+<label for="email-address">Email Address</label>
+<input type="email" name="_replyto" id="email-address" class="form-control" placeholder="your@email.here" required>
+
+<label for="message">Message</label>
+<textarea rows="6" name="message" id="message" class="form-control" placeholder="Your message." required></textarea>
+
+<button type="submit" class="btn btn-primary mt-4">Send message</button>
+</form>
+
+:::
+
+:::

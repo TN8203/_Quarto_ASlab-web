@@ -1,0 +1,85 @@
+---
+title: 'Actuarial Science Laboratory (AS Lab) Member Recruitment'
+author: AS Lab
+date: '2023-07-25'
+date-modified: '2023-07-25'
+image: featured.png
+subtitle: "Actuarial Science Laboratory (AS Lab) Member Recruitment"
+description: ''
+filters:
+   - include-code-files
+code-annotations: below
+df-print: paged
+---
+
+
+## Announcement
+
+Currently, the Actuarial Science Laboratory (AS Lab) under the Faculty of Mathematical Economics is recruiting members. AS Lab was established with the aim of helping passionate students have the opportunity to study, research, and participate in practical jobs related to Actuarial Science.
+
+## Objectives
+
+Our lab is focused on the following objectives:
+
+1. **Academic Research in Actuarial Science** Engage in reading scientific papers, attending conferences, and contributing to academic journals related to the Actuarial Science field. This includes writing papers for seminars and academic journals.
+
+2. **Industry Collaboration** Collaborate with insurance companies, banks, and other organizations related to Actuarial Science to execute projects. These partnerships will focus on developing practical solutions and applying research to real-world problems.
+
+
+3. **Competitions** Organize and participate in Actuarial Science-related competitions. These events will allow participants to challenge their skills and knowledge in the field, fostering innovation and skill development.
+
+
+4. **Student Opportunities** Create opportunities for students to solve real-world problems through Actuarial Science. Additionally, provide connections to internships and practical training in the field, helping students gain hands-on experience and professional growth.
+
+
+## Fiels of Studys
+
+- Frequency – Severity model.
+- Copulae and related topics.
+- Monte Carlo Simulation, Markov Chain Monte Carlo methods.
+- Bayesian statistics in actuarial science.
+- Computational methods in actuarial science.
+
+
+## Requirements to Become a Member
+
+1. **Student Status**  
+   Must be a full-time student at the National Economics University (NEU).
+
+2. **Passion for Research**  
+   Must be passionate about research and eager to explore new challenges in the field.
+
+## Benefits of Joining AS Lab
+
+1. **Collaborative Research Projects**  
+   Opportunity to work on real-world research and application projects with experienced professionals, potentially earning income from participation in these projects.
+
+2. **Comprehensive Training in Actuarial Science**  
+   Receive in-depth training in Actuarial Science, gaining knowledge and skills essential for the field.
+
+3. **Preparation for Competitions**  
+   Gain valuable insights and knowledge to participate in Actuarial Science-related competitions.
+
+4. **Access to Modern Equipment**  
+   Utilize the state-of-the-art equipment at AS Lab (11th floor) and DS Lab (16th floor) for research and study purposes.
+
+## Steps to Apply
+
+1. **CV Submission:**  
+   Send your CV to the email address khoatoankt@neu.edu.vn with the subject line “[Application for AS Lab] CV – (Your Full Name)”. The application deadline is from 24/07/2023 to 29/07/2023.
+
+2. **Interview Round:**  
+   Shortlisted applicants will be contacted for an interview. This is the final step in becoming a member of AS Lab.
+
+## AS Lab Supervisor
+
+Mr. Nguyễn Quang Huy  
+Member of the Society of Actuaries (SOA),  
+Deputy Head of the Department of Economic Mathematics.
+
+<details>
+  ::: {.callout-note appearance="simple" collapse="false"}
+  ## Contact Information
+  For more information, please contact us via email: khoatoankt@neu.edu.vn or phone: 0924929497 (Mr. La Minh Hieu).
+  :::
+</details>

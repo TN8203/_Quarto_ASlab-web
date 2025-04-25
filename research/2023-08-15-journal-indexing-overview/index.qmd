@@ -1,0 +1,58 @@
+---
+title: "Understanding Journal Classifications: ISI, ESCI, and SCOPUS"
+subtitle: "An Overview of Major Scientific Indexing Systems"
+author: 
+  - La Minh Hieu
+date: 2023-08-15
+slug: journal-indexing-overview
+image: featured.png
+---
+## Introduction
+
+Publishing in reputable journals is a key part of academic research. This article offers a concise overview of three widely recognized journal indexing systems: **ISI**, **ESCI**, and **SCOPUS**. Understanding these systems helps researchers choose suitable journals for disseminating their work.
+
+## ISI-Indexed Journals
+
+**ISI** stands for *Institute of Scientific Information* (USA). It is a prestigious indexing system used to evaluate the quality of scientific journals. Originally, it focused on **SCI (Science Citation Index)**, which included high-quality journals in science, technology, and engineering. Later, it expanded to:
+
+- **SCIE** (Science Citation Index Expanded)
+- **SSCI** (Social Sciences Citation Index)
+- **A&HCI** (Arts & Humanities Citation Index)
+
+As of today, ISI covers around **12,000 journals**, all of which are widely recognized for scientific rigor.
+
+### How to check if a journal is ISI-indexed:
+
+1. Visit the [Master Journal List](https://mjl.clarivate.com/search-results)
+2. Search by journal name or ISSN.
+
+![Example journal search](search.png)
+
+## ESCI-Indexed Journals
+
+**ESCI (Emerging Sources Citation Index)** includes newer or emerging journals. Launched in 2015, ESCI is managed by **Clarivate** (previously by Thomson Reuters). These journals are not part of the ISI Core Collection but are under evaluation for inclusion in SCIE, SSCI, or A&HCI.
+
+- ESCI currently includes **8,200+ journals**.
+- You can search for ESCI journals the same way as ISI journals via the Master Journal List.
+
+## SCOPUS-Indexed Journals
+
+**Scopus** is an indexing system launched in 2004 by Elsevier, containing over **44,000 journals** as of the end of 2022. Unlike ISI, Scopus uses **Quantile rankings (Q1–Q4)** by subject area to assess journal impact.
+
+- A journal with a higher **Quantile (e.g., Q1 or 90%)** is considered more reputable in its field.
+
+### Example journals in economics and finance indexed by Scopus:
+
+- *Quarterly Journal of Economics*
+- *Journal of Management*
+- *American Economic Journal: Applied Economics*
+- *Resources, Conservation and Recycling*
+
+### How to check if a journal is Scopus-indexed:
+
+1. Visit: [https://www.scopus.com/sources.uri](https://www.scopus.com/sources.uri)
+2. Search by journal name or ISSN.
+
+## Conclusion
+
+Understanding these journal classifications can help researchers strategically choose where to publish, increasing visibility and credibility within the academic community.

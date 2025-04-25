@@ -1,0 +1,59 @@
+---
+title: "Actuarial Science Laboratory" 
+pagetitle: "Actuarial Science Laboratory"
+subtitle: "Laboratory at NEU College of Technology"
+image: assets/aslab/logo-as1.png
+image-alt: "AS Lab logo – modern A-shaped logo symbolizing the AS Lab"
+
+twitter-card:
+    title: Actuarial Science Laboratory
+    description: |
+      Laboratory at NEU College of Technology.
+    image: assets/aslab/logo-as1.png
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    - text: "{{< fa university >}}"
+      aria-label: "Visit NEU College of Technology website"
+      href: https://nct.neu.edu.vn/
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
+---
+
+<br><br>
+
+::: {#hero-heading}
+
+We are AS Lab, a group of researchers dedicated to exploring Actuarial Science. Our mission is to become a **leading research hub** in Actuarial Science — recognized for **academic excellence**, **innovation**, and **real-world impact**.
+
+[Learn more about me &rarr;](/about){.about-links .subtitle}
+
+:::
+<!-- hero-heading -->
+
+```{r write-manual-redirects}
+#| eval: true
+
+manual_redirects <-
+  readr::read_table(here::here("static", "_manualredirects.txt"),
+                    col_names = FALSE) |> 
+  dplyr::mutate(redirect = paste0(X1, " ", X2, " ", X3))
+
+manual_redirects <- manual_redirects$redirect
+
+# write the _redirect file
+writeLines(manual_redirects, here::here("_site", "_redirects"))
+
+```

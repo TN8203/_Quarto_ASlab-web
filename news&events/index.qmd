@@ -1,0 +1,41 @@
+---
+title: "News & Events"
+description: |
+  Stay up to date with the latest news, announcements, and activities from AS Lab.<br>
+  This includes seminars, publications, recruitment, collaborations, and other events.<br><br>
+  {{< fa calendar-alt >}} Follow us so you won't miss any updates.
+
+listing: 
+  contents: 
+    - "**/index.qmd"
+    - "**/index.md"
+    - "**/index.markdown"
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, date, image]
+  image-placeholder: sidebar.jpg
+  image-align: right
+  feed:
+    categories: [News, Events]
+
+toc: false
+comments: false
+
+format: 
+  html: 
+    page-layout: full
+    citation: false
+
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+
+resources:
+  - ../assets/listing-default.css 
+
+include-after-body: ../assets/silvia/subscribe.html
+---
