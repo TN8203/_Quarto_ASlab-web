@@ -38,7 +38,6 @@ resources:
 
 We are AS Lab, a group of researchers dedicated to exploring Actuarial Science. Our mission is to become a **leading research hub** in Actuarial Science — recognized for **academic excellence**, **innovation**, and **real-world impact**.
 
-[Learn more about me &rarr;](/about){.about-links .subtitle}
 
 :::
 <!-- hero-heading -->
