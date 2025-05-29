@@ -15,11 +15,6 @@ about:
   template: solana
   image-width: 28em
   id: hero-heading
-  links:
-    - text: "{{< fa university >}}"
-      aria-label: "Visit NEU College of Technology website"
-      href: https://nct.neu.edu.vn/
-page-layout: full
 
 execute: 
   freeze: false

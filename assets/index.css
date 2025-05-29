@@ -96,3 +96,11 @@
       padding: 0 2em 0 2em !important;
     }
 }
+
+/* Hide logo */
+@media screen and (max-width: 768px) {
+  img[src*="logo-as1.png"] {
+    display: none !important;
+  }
+}
+
