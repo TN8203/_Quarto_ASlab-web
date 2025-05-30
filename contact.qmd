@@ -25,7 +25,7 @@ resources:
 ::: {.g-col-6}
 ### 📍 Visit Us
 
-Room 1209B, A1 Building  
+Room 1210, A1 Building  
 National Economics University  
 207 Giai Phong Street, Dong Tam Ward  
 Hai Ba Trung District, Hanoi, Vietnam  

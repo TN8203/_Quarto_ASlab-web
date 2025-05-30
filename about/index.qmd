@@ -23,7 +23,7 @@ With a team of experienced experts, the research department focuses on developin
 
 In addition to research and application orientation, AS Lab was also established with the aim of helping passionate students/trainees have the opportunity to study, research, and participate in practical work related to Actuarial Science.
 
-Get in touch by [sending us a note](/contact.qmd)! <i class="fa-solid fa-feather-pointed"></i>
+Get in touch by [sending us a note](/contact.qmd)! 💬 <i class="fa-solid fa-feather-pointed"></i>
 
 :::
 
@@ -76,7 +76,7 @@ Get in touch by [sending us a note](/contact.qmd)! <i class="fa-solid fa-feather
 <div class="member-info">
   <h4>Dr. Phạm Thị Hồng Thắm</h4>
   <p>Lecturer, Dept. of Financial Mathematics</p>
-  <p>Asset pricing, insurance pricing, risk management</p>
+  <p>Asset Pricing, Insurance Pricing, Risk Management</p>
   <p><a href="https://mfe.neu.edu.vn/phamthihongtham/">More information</a></p>
 </div>
 :::
@@ -86,17 +86,9 @@ Get in touch by [sending us a note](/contact.qmd)! <i class="fa-solid fa-feather
 <div class="member-info">
   <h4>Dr. Nguyễn Thị Liên</h4>
   <p>Lecturer, Dept. of Financial Mathematics</p>
-  <p>Applied mathematics in economics & finance</p>
+  <p>Applied Mathematics in Economics & Finance</p>
   <p><a href="https://mfe.neu.edu.vn/nguyenthilien/">More information</a></p>
-</div>
+</div> 
 :::
 
-### Student Information
-
-| Name      | Program           | Research Interest      | Contact              |
-|-----------|-------------------|------------------------|----------------------|
-| Student 1 | Actuarial Science | Copula models          | student1@email.com   |
-| Student 2 | Actuarial Science | Monte Carlo Methods    | student2@email.com   |
-| Student 3 | Actuarial Science | Interest Rate Models   | student3@email.com   |
-| Student 4 | Actuarial Science | Risk Management        | student4@email.com   |
 

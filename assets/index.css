@@ -106,41 +106,30 @@
 
 @media (max-width: 768px) {
   .page-footer {
-    position: relative;
-    padding-bottom: 60px;
-    min-height: 220px;
+    display: flex !important;
+    flex-direction: column;
+    padding: 16px;
   }
 
-  table[style*="width: 100%; height: 100%;"] {
-    position: absolute !important;
-    bottom: 12px !important;
-    right: 16px !important;
-    width: max-content !important;
-    text-align: right !important;
+  .page-footer > div {
+    width: 100%;
+    margin-bottom: 12px;
   }
 
-  td[style*="text-align: right"] {
-    position: static !important; 
-    font-size: 13px !important;
-    color: white !important;
-    line-height: 1.5;
-    padding: 0 !important;
-    margin: 0 !important;
-    display: block !important;
+  .page-footer > div:nth-child(1) {
+    order: 1; /* logo + NEU */
   }
 
-  td[style*="padding-right: 12px;"],
-  td[style*="font-size: 14px; line-height: 1.2;"] {
-    display: inline-block !important;
-    vertical-align: bottom !important;
+  .page-footer > div:nth-child(2) {
+    order: 2; /* location */
+    text-align: left;
   }
 
-  td img[alt="AS Lab Logo"] {
-    display: inline-block;
-    margin: 0;
+  .page-footer > div:nth-child(3) {
+    order: 3; /* copyright */
+    align-self: flex-end;
+    text-align: right;
+    margin-top: auto;
   }
 }
-
-
-
 

@@ -3,15 +3,12 @@ project:
 
 website:
   title: "Actuarial Science Laboratory"
+  search: false
   site-url: https://aslab.com
   description: "Actuarial Science Laboratory at NEU College of Technology"
   favicon: assets/aslab/logo-as1.png
   page-navigation: true
-  back-to-top-navigation: true
-  twitter-card:
-    creator: "@spcanelon"
-    site: "@spcanelon"
-    card-style: summary_large_image
+  #back-to-top-navigation: true
   comments: 
     utterances: 
       repo: spcanelon/silvia 
@@ -59,16 +56,11 @@ website:
       </table>
   
     center: |
-      <table style="height: 100%;">
+      <table style="height: 100%; width: 100%;">
         <tr>
-          <td style="vertical-align: bottom; text-align: center;">
-            <span style="font-size: 18px; line-height: 2;">
-              <a href="/about/" style="margin: 0 30px; color: white; text-decoration: none;">About</a>
-              <a href="/news&events/" style="margin: 0 30px; color: white; text-decoration: none;">News & Events</a>
-              <a href="/research/" style="margin: 0 30px; color: white; text-decoration: none;">Research</a>
-              <a href="/publication/" style="margin: 0 30px; color: white; text-decoration: none;">Publications</a>
-              <a href="/contact.qmd" style="margin: 0 30px; color: white; text-decoration: none;">Contact</a>
-            </span>
+          <td style="vertical-align: bottom; text-align: left; font-size: 15px; line-height: 1.6; color: white;">
+            Room 1210, A1 Building National Economics University<br>
+            207 Giai Phong Street, Dong Tam Ward, Hai Ba Trung District, Hanoi, Vietnam
           </td>
         </tr>
       </table>
@@ -77,10 +69,11 @@ website:
       <table style="width: 100%; height: 100%;">
         <tr>
           <td style="vertical-align: bottom; text-align: right; font-size: 13px; color: white;">
-            &copy; 2025 AS Lab.<br>All rights reserved.
+            &copy; 2025 AS Lab.All rights reserved.
           </td>
         </tr>
       </table>
+
 
 format:
   html:
@@ -96,6 +89,7 @@ format:
     pagetitle: "{{< meta title >}}"
     lightbox: true
     toggle-theme: false
+    page-layout: full
 
 execute: 
   freeze: auto

@@ -137,7 +137,7 @@
     "href": "about/index.html",
     "title": "Actuarial Science Laboratory",
     "section": "",
-    "text": "Hi, guys!\n\nThe Actuarial Science in Finance and Insurance (AS Lab) at NEU College of Technology is a specialized unit that researches mathematical and statistical methods to assess and manage risks in insurance, finance, and related fields.\nWith a team of experienced experts, the research department focuses on developing quantitative models to forecast risks, optimize financial strategies, and support decision-making for businesses and organizations.\nIn addition to research and application orientation, AS Lab was also established with the aim of helping passionate students/trainees have the opportunity to study, research, and participate in practical work related to Actuarial Science.\nGet in touch by sending us a note!"
+    "text": "Hi, guys!\n\nThe Actuarial Science in Finance and Insurance (AS Lab) at NEU College of Technology is a specialized unit that researches mathematical and statistical methods to assess and manage risks in insurance, finance, and related fields.\nWith a team of experienced experts, the research department focuses on developing quantitative models to forecast risks, optimize financial strategies, and support decision-making for businesses and organizations.\nIn addition to research and application orientation, AS Lab was also established with the aim of helping passionate students/trainees have the opportunity to study, research, and participate in practical work related to Actuarial Science.\nGet in touch by sending us a note! 💬"
   },
   {
     "objectID": "about/index.html#our-objectives",
@@ -151,14 +151,14 @@
     "href": "about/index.html#our-members",
     "title": "Actuarial Science Laboratory",
     "section": "Our Members",
-    "text": "Our Members\n\n\n\n\nDr. Nguyễn Quang Huy\n\n\nPresident of the College of Technology\n\n\nNational Economics University\n\n\nMore information\n\n\n\n\n\n\n\nDr. Phạm Thị Hồng Thắm\n\n\nLecturer, Dept. of Financial Mathematics\n\n\nAsset pricing, insurance pricing, risk management\n\n\nMore information\n\n\n\n\n\n\n\nDr. Nguyễn Thị Liên\n\n\nLecturer, Dept. of Financial Mathematics\n\n\nApplied mathematics in economics & finance\n\n\nMore information\n\n\n\n\nStudent Information\n\n\n\n\n\n\n\n\n\nName\nProgram\nResearch Interest\nContact\n\n\n\n\nStudent 1\nActuarial Science\nCopula models\nstudent1@email.com\n\n\nStudent 2\nActuarial Science\nMonte Carlo Methods\nstudent2@email.com\n\n\nStudent 3\nActuarial Science\nInterest Rate Models\nstudent3@email.com\n\n\nStudent 4\nActuarial Science\nRisk Management\nstudent4@email.com"
+    "text": "Our Members\n\n\n\n\nDr. Nguyễn Quang Huy\n\n\nPresident of the College of Technology\n\n\nNational Economics University\n\n\nMore information\n\n\n\n\n\n\n\nDr. Phạm Thị Hồng Thắm\n\n\nLecturer, Dept. of Financial Mathematics\n\n\nAsset Pricing, Insurance Pricing, Risk Management\n\n\nMore information\n\n\n\n\n\n\n\nDr. Nguyễn Thị Liên\n\n\nLecturer, Dept. of Financial Mathematics\n\n\nApplied Mathematics in Economics & Finance\n\n\nMore information"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "💬 Send me a note",
     "section": "",
-    "text": "📧 Email\nas@lab.nct.edu\n\n\n📍 Visit Us\nRoom 1209B, A1 Building\nNational Economics University\n207 Giai Phong Street, Dong Tam Ward\nHai Ba Trung District, Hanoi, Vietnam\nView on Map\n\n\n\n\n\n💬 Send me a note\nYou can use this form to contact the Actuarial Science Laboratory for inquiries about collaborations, research opportunities, or any questions related to actuarial science.\nWe also appreciate your feedback on how our educational materials have helped you and how we can improve them — particularly in making them more accessible to all learners. We value your input as we continue to enhance our resources and support. \n\n\n\n\n\n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSend message\n\n\n\n\n\n\n\n Back to top"
+    "text": "📧 Email\nas@lab.nct.edu\n\n\n📍 Visit Us\nRoom 1210, A1 Building\nNational Economics University\n207 Giai Phong Street, Dong Tam Ward\nHai Ba Trung District, Hanoi, Vietnam\nView on Map\n\n\n\n\n\n💬 Send me a note\nYou can use this form to contact the Actuarial Science Laboratory for inquiries about collaborations, research opportunities, or any questions related to actuarial science.\nWe also appreciate your feedback on how our educational materials have helped you and how we can improve them — particularly in making them more accessible to all learners. We value your input as we continue to enhance our resources and support. \n\n\n\n\n\n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSend message\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "news&events/2023-07-25-member-recruitment/index.html",
@@ -376,5 +376,47 @@
     "title": "Understanding Journal Classifications: ISI, ESCI, and SCOPUS",
     "section": "Conclusion",
     "text": "Conclusion\nUnderstanding these journal classifications can help researchers strategically choose where to publish, increasing visibility and credibility within the academic community."
+  },
+  {
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
+    "title": "Actuarial Science Laboratory",
+    "section": "🧽 About Us",
+    "text": "🧽 About Us\n::: {.grid grid-cols-1 md:grid-cols-2 gap-4} - We focus on applying quantitative and AI-driven approaches in actuarial fields. - Our lab supports development in microinsurance, mortality modeling, and financial risk analysis. - Learn more → :::"
+  },
+  {
+    "objectID": "index.html#news-events",
+    "href": "index.html#news-events",
+    "title": "Actuarial Science Laboratory",
+    "section": "📰 News & Events",
+    "text": "📰 News & Events\n\n\n📢 [May 2025] Welcoming new team members!\n🏆 Presented at NEU Conference on Risk Analytics.\n🎓 Students awarded for actuarial excellence. View all →"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Actuarial Science Laboratory",
+    "section": "🔬 Research",
+    "text": "🔬 Research\nCurrent projects include: - 🧠 Machine learning in claim prediction\n- 📈 LSTM for mortality forecasting\n- 🔍 Health insurance data analytics\nExplore research →"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Actuarial Science Laboratory",
+    "section": "📄 Selected Publications",
+    "text": "📄 Selected Publications\n\nRisk Adjustment in Vietnamese Health Markets — 2024\n\nForecasting Mortality with Stochastic Models — 2023\nSee full list →"
+  },
+  {
+    "objectID": "index.html#our-team",
+    "href": "index.html#our-team",
+    "title": "Actuarial Science Laboratory",
+    "section": "👥 Our Team",
+    "text": "👥 Our Team\nMeet researchers, fellows, and collaborators.\nFull team →"
+  },
+  {
+    "objectID": "index.html#join-us",
+    "href": "index.html#join-us",
+    "title": "Actuarial Science Laboratory",
+    "section": "🤝 Join Us",
+    "text": "🤝 Join Us\nWe welcome students, collaborators, and visiting researchers.\nOpenings & Info →\n\n::: {.text-center text-sm text-gray-500 mt-10} © 2025 Actuarial Science Laboratory – Built with Quarto. :::"
   }
 ]
